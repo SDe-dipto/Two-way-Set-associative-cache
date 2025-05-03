@@ -1,5 +1,9 @@
 # 2-Way-Set-Associative-Cache
-This repository contains design and implemention of a two-set associative cache using Verilog. 
+This repository contains design and implemention of a two-set associative cache using Verilog.  
+
+## Contributors
+- [Sourabh](https://github.com/Sourabh-Mallapur)
+The original author of this project is Sourabh Mallapur, one of the project's contributors.
 
 ## Methodology 
 1. Understanding Cache Architecture: studied the basic concepts of cache memory, including its organization, operation, and the benefits it provides in enhancing memory access speed. 
